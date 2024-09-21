@@ -1,0 +1,50 @@
+{
+  "uuid": "7d4ac431-ff3f-3f0b-8be5-35cee69540cb",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "fc00eb57-f43f-4e99-a09d-bb153804e216",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 13,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 4,
+    "totalBattleVictoryCount": 30,
+    "totalPvPBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 28,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "fire": 3,
+      "normal": 3,
+      "fairy": 1,
+      "steel": 1,
+      "electric": 2,
+      "grass": 1,
+      "rock": 1,
+      "ghost": 4,
+      "flying": 2,
+      "poison": 2
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:cottonee": 1,
+      "cobblemon:gimmighoul": 1,
+      "cobblemon:growlithe": 1,
+      "cobblemon:combee": 2,
+      "cobblemon:meowth": 1,
+      "cobblemon:wooloo": 2,
+      "cobblemon:diglett": 1,
+      "cobblemon:mareep": 2,
+      "cobblemon:miltank": 2,
+      "cobblemon:linoone": 1,
+      "cobblemon:granbull": 1,
+      "cobblemon:voltorb": 1,
+      "cobblemon:zigzagoon": 3,
+      "cobblemon:mimejr": 1
+    },
+    "aspectsCollected": {}
+  }
+}
